@@ -1,0 +1,5 @@
+CREATE SCHEMA src
+
+
+CREATE SCHEMA dwh
+
